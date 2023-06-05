@@ -1,0 +1,550 @@
+
+------------------
+vars-100-10.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             1117                1.22 per conflict
+c kitten_decisions:                       196               32.67 per solved
+1 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-100-1.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              347                1.26 per conflict
+c kitten_decisions:                         0                0.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-2.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                               46                1.59 per conflict
+c kitten_decisions:                         0                0.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-3.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             1357                1.11 per conflict
+c kitten_decisions:                       357               44.62 per solved
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-100-4.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             1389                1.19 per conflict
+c kitten_decisions:                       521               47.36 per solved
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-100-5.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              253                1.17 per conflict
+c kitten_decisions:                         0                0.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-6.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              411                1.22 per conflict
+c kitten_decisions:                         0                0.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-7.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              211                1.26 per conflict
+c kitten_decisions:                         0                0.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-8.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              320                1.25 per conflict
+c kitten_decisions:                         0                0.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-9.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                              882                1.09 per conflict
+c kitten_decisions:                       467               42.45 per solved
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-150-10.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             6477                1.44 per conflict
+c kitten_decisions:                     14738               46.20 per solved
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-150-1.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             2079                1.71 per conflict
+c kitten_decisions:                      2434               81.13 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-2.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             4052                1.15 per conflict
+c kitten_decisions:                     11030               78.79 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-3.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             2302                1.47 per conflict
+c kitten_decisions:                      2356               78.53 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-4.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             5602                1.32 per conflict
+c kitten_decisions:                     16107               46.69 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-5.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             5849                1.26 per conflict
+c kitten_decisions:                     15790               49.19 per solved
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-150-6.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              643                1.33 per conflict
+c kitten_decisions:                         0                0.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-7.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             6214                1.52 per conflict
+c kitten_decisions:                     15380               46.33 per solved
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-150-8.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             3579                1.20 per conflict
+c kitten_decisions:                      4845               76.90 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-9.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             8837                1.30 per conflict
+c kitten_decisions:                     28168               58.20 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-10.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                            34650                1.51 per conflict
+c kitten_decisions:                    161393               71.04 per solved
+1 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-200-1.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                            27897                1.50 per conflict
+c kitten_decisions:                    110281               60.43 per solved
+1 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-200-2.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                            12045                1.22 per conflict
+c kitten_decisions:                     40655               49.34 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-3.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                            27325                1.29 per conflict
+c kitten_decisions:                    111405               60.38 per solved
+1 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-200-4.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                            12298                1.19 per conflict
+c kitten_decisions:                     41004               49.11 per solved
+0 s
+misat:
+UNSATISFIABLE
+1 s
+
+------------------
+vars-200-5.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                            15984                1.33 per conflict
+c kitten_decisions:                     68258               58.64 per solved
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-200-6.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                            12395                1.27 per conflict
+c kitten_decisions:                     38611               48.08 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-7.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                            48640                1.40 per conflict
+c kitten_decisions:                    228837               67.54 per solved
+1 s
+misat:
+UNSATISFIABLE
+1 s
+
+------------------
+vars-200-8.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             2465                1.21 per conflict
+c kitten_decisions:                      7050               81.03 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-9.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             5412                1.78 per conflict
+c kitten_decisions:                      6911               84.28 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-250-10.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             2435                1.32 per conflict
+c kitten_decisions:                      4007               80.14 per solved
+0 s
+misat:
+SATISFIABLE
+1 s
+
+------------------
+vars-250-1.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                           178044                1.47 per conflict
+c kitten_decisions:                   1275059               80.94 per solved
+2 s
+misat:
+UNSATISFIABLE
+3 s
+
+------------------
+vars-250-2.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                           235574                1.48 per conflict
+c kitten_decisions:                   1789010               82.99 per solved
+2 s
+misat:
+UNSATISFIABLE
+3 s
+
+------------------
+vars-250-3.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                            15170                1.34 per conflict
+c kitten_decisions:                     76983               58.36 per solved
+0 s
+misat:
+SATISFIABLE
+2 s
+
+------------------
+vars-250-4.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                            31910                1.24 per conflict
+c kitten_decisions:                    179943               65.36 per solved
+0 s
+misat:
+SATISFIABLE
+1 s
+
+------------------
+vars-250-5.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                           180498                1.45 per conflict
+c kitten_decisions:                   1180918               79.94 per solved
+2 s
+misat:
+UNSATISFIABLE
+3 s
+
+------------------
+vars-250-6.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                           203897                1.41 per conflict
+c kitten_decisions:                   1433237               80.99 per solved
+3 s
+misat:
+UNSATISFIABLE
+6 s
+
+------------------
+vars-250-7.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                            13854                1.38 per conflict
+c kitten_decisions:                     48900               49.00 per solved
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-250-8.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                           179780                1.48 per conflict
+c kitten_decisions:                   1222798               80.40 per solved
+2 s
+misat:
+UNSATISFIABLE
+4 s
+
+------------------
+vars-250-9.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                           104708                1.51 per conflict
+c kitten_decisions:                    634580               75.28 per solved
+1 s
+misat:
+SATISFIABLE
+3 s
+
+------------------
+vars-300-10.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                           189925                1.72 per conflict
+c kitten_decisions:                   1017785               77.71 per solved
+1 s
+misat:
+SATISFIABLE
+11 s
+
+------------------
+vars-300-1.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                           110587                1.64 per conflict
+c kitten_decisions:                    647593               74.48 per solved
+1 s
+misat:
+SATISFIABLE
+2 s
+
+------------------
+vars-300-2.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                          1931648                1.52 per conflict
+c kitten_decisions:                  16252520               90.04 per solved
+37 s
+misat:
+UNSATISFIABLE
+47 s
+
+------------------
+vars-300-3.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                           923152                1.53 per conflict
+c kitten_decisions:                   8911075               89.20 per solved
+15 s
+misat:
+UNSATISFIABLE
+17 s
+
+------------------
+vars-300-4.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                          1298155                1.54 per conflict
+c kitten_decisions:                  11838159               89.52 per solved
+21 s
+misat:
+UNSATISFIABLE
+38 s
+
+------------------
+vars-300-5.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                          1208619                1.62 per conflict
+c kitten_decisions:                  10523613               89.38 per solved
+18 s
+misat:
+SATISFIABLE
+39 s
+
+------------------
+vars-300-6.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                           807802                1.48 per conflict
+c kitten_decisions:                   7840968               89.23 per solved
+12 s
+misat:
+UNSATISFIABLE
+19 s
+
+------------------
+vars-300-7.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                            14329                1.56 per conflict
+c kitten_decisions:                     49651               57.80 per solved
+0 s
+misat:
+SATISFIABLE
+6 s
+
+------------------
+vars-300-8.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                          1486033                1.53 per conflict
+c kitten_decisions:                  13080161               90.10 per solved
+25 s
+misat:
+UNSATISFIABLE
+43 s
+
+------------------
+vars-300-9.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                           218757                1.60 per conflict
+c kitten_decisions:                   1513373               80.46 per solved
+2 s
+misat:
+SATISFIABLE
+5 s
